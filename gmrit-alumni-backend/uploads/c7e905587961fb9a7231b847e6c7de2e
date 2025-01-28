@@ -1,0 +1,3 @@
+login_id,name_of_the_alumni,gender,course,branch,dob,passed,address,state,country,zipcode,phone_no,mail_id,dor,parent_number,company,designation,dept,PHONE,MAIL
+A001,Jane Smith,Female,B.Tech,Electrical Engineering,22-08-1994,2020,,,,,,janesmith@email.com,,,,,,,
+A002,Michael Brown,Male,B.Tech,CSE,15-02-1996,2018,789 Oak St,Tamil Nadu,India,600007,9988776655,michaelbrown@email.com,01-11-2024,9988776655,Financial Solutions,Accountant,Finance,+91 9443344556,michaelbrown@company.com
