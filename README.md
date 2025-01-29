@@ -38,5 +38,5 @@ Contributions are welcome! If you have suggestions for new features or improveme
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
-If you have any questions or need further assistance, feel free to reach out to us at [your-email@example.com].
+If you have any questions or need further assistance, feel free to reach out to us at Katarisreelasya25@gmail.com.
 
