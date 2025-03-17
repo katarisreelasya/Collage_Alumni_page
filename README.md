@@ -32,7 +32,7 @@ To get started with the project, follow these steps:
 After completing the installation steps, start the development server with `npm start`. Open your browser and navigate to `http://localhost:3000` to see the application in action.
 ![image](https://github.com/user-attachments/assets/a42df0f8-94f3-4055-be77-637e8d8bdfe0)
 
-
+""Go through https://drive.google.com/file/d/1MVxNfXo0ifcUTlVuT-OW-oKLysa_59Mb/view?usp=drive_link""
 ## Contributing
 Contributions are welcome! If you have suggestions for new features or improvements, please create an issue or submit a pull request. Make sure to follow the contributing guidelines.
 
