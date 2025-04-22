@@ -30,6 +30,7 @@ To get started with the project, follow these steps:
 1. Clone this repository to your local machine using `git clone https://github.com/katarisreelasya/Collage_Alumni_page.git`
 2. Navigate to the project directory `cd Collage_Alumni_page`
 3. Install the necessary dependencies with `npm install`
+4. Backend command bin run index.ts   
 
 ## Usage
 After completing the installation steps, start the development server with `npm start`. Open your browser and navigate to `http://localhost:3000` to see the application in action.
